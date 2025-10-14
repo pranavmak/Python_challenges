@@ -1,6 +1,6 @@
 import random
 
-friend = ["pranav", "akshay", "saif", "kiran"]
+friend = ["p", "a", "s", "k"]
 
 #option 1
 
@@ -23,4 +23,5 @@ friend = ["pranav", "akshay", "saif", "kiran"]
 
 random_index = random.randint(0,3)
 print(friend[random_index])
+
 
